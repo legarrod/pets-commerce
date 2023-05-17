@@ -37,3 +37,18 @@ body {
   background-repeat: no-repeat;
   background-position: center;
 }
+.bg-image-vter{
+  background-image: url('../../public/assets/images/veter.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.brandsImg {
+  border-radius: 50%;
+  object-fit: none;
+  width: 200px;
+  /* height: 300px; */
+  overflow: hidden;
+  margin: 10px 10px;
+}
