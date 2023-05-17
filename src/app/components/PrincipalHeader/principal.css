@@ -1,0 +1,6 @@
+.bg-image{
+    background-image: url('../../../../public/assets/images/bg-imagemain.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
