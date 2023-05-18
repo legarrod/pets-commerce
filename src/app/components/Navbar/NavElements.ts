@@ -8,8 +8,9 @@ export const Nav = styled.nav`
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #3399fe;
+    background-color: #3399FF;
     box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.25);
+    paddin: 15px 0 15px 0;
 `
 
 export const LogoContainer = styled.div`

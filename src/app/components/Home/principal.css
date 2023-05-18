@@ -1,0 +1,7 @@
+.bg-image{
+    background-image: linear-gradient(rgba(255, 255, 255, 0%), rgba(0, 0, 0, 0.5)), url('../../../../public/assets/images/img-header.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
